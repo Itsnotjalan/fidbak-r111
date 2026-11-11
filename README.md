@@ -9,7 +9,7 @@
 Pour les 1re année de **BUT Informatique à Aix-en-Provence** · cours 1 à 4 de **Madame Salou**
 
 [![Jouer](https://img.shields.io/badge/▶%20Jouer-en%20ligne-E5122E)](https://itsnotjalan.github.io/fidbak-r111/)
-![Ordinateur](https://img.shields.io/badge/écran-ordinateur%201280px+-black)
+![PC et téléphone à l’horizontale](https://img.shields.io/badge/PC%20et%20téléphone-à%20l’horizontale-black)
 ![Hors ligne](https://img.shields.io/badge/aucune%20installation-un%20seul%20fichier-white)
 
 <img src="docs/accueil.png" width="760" alt="L’accueil de Fidbak : le monde de la Cité des Signes">
@@ -45,6 +45,8 @@ Une appli de révision façon Duolingo, en noir, blanc et rouge. **Fidbak**, un 
 ## Jouer
 
 👉 **[itsnotjalan.github.io/fidbak-r111](https://itsnotjalan.github.io/fidbak-r111/)**
+
+Sur téléphone, tourne-le à l’horizontale.
 
 Ou télécharge `index.html` et ouvre-le : ça marche sans internet. Ta progression reste dans ton navigateur.
 
