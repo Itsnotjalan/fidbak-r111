@@ -1,41 +1,55 @@
-# 🦖 Fidbak — réviser R1.11 avec un monstre
+<div align="center">
 
-**Fidbak** est une application de révision pour le module **R1.11 « Bases de la communication »**, destinée aux étudiantes et étudiants de **1re année de BUT Informatique à Aix-en-Provence**.
+<img src="docs/icon.png" width="110" alt="Fidbak">
 
-Elle couvre les **cours 1 à 4 de Madame Salou** :
+# Fidbak
 
-| Unité | Contenu |
+**Un petit monstre qui t’aide à réviser R1.11 « Bases de la communication ».**
+
+Pour les 1re année de **BUT Informatique à Aix-en-Provence** · cours 1 à 4 de **Madame Salou**
+
+[![Jouer](https://img.shields.io/badge/▶%20Jouer-en%20ligne-E5122E)](https://itsnotjalan.github.io/fidbak-r111/)
+![Ordinateur](https://img.shields.io/badge/écran-ordinateur%201280px+-black)
+![Hors ligne](https://img.shields.io/badge/aucune%20installation-un%20seul%20fichier-white)
+
+<img src="docs/accueil.png" width="760" alt="L’accueil de Fidbak : le monde de la Cité des Signes">
+
+</div>
+
+---
+
+## C’est quoi ?
+
+Une appli de révision façon Duolingo, en noir, blanc et rouge. **Fidbak**, un kaiju moqueur, se fout de toi quand tu te trompes, devient un petit chibi kawaii quand tu enchaînes les bonnes réponses… et te met K.O. quand tu n’as plus de cœurs.
+
+<div align="center">
+<img src="docs/lecon.png" width="760" alt="Une question : l’interface de dialogue avec Fidbak et les réponses en bulles">
+</div>
+
+## Ce qu’il y a dedans
+
+| Monde | Cours |
 |---|---|
-| 1 | Les bases de la com’ : origines du mot, les 5 sens, les 7 éléments, les codes culturels |
-| 2 | Histoire des médias : de l’imprimerie à Internet (toutes les dates à connaître) |
-| 3 | Communication de masse : Lazarsfeld (two-step flow), Lewin (gatekeeper) |
-| 4 | Communication télégraphique : Shannon & Weaver, Wiener (feed-back), Turing |
-| 5 | Communication orchestrale : Bateson, Birdwhistell, Hall (école de Palo Alto) |
-| Boss | Contrôle blanc qui mélange tout |
+| 🏙️ Cité des Signes | Les bases de la com’ : origines du mot, 5 sens, 7 éléments |
+| 🗼 Vieux Paris des Médias | Histoire des médias : toutes les dates, de l’imprimerie à Internet |
+| 📡 Ville des Ondes | Communication de masse : Lazarsfeld, Lewin |
+| 🔌 Labo Télégraphe | Communication télégraphique : Shannon & Weaver, Wiener, Turing |
+| 🌉 Palo Alto | Communication orchestrale : Bateson, Birdwhistell, Hall |
+| 👹 L’Arène du Boss | Contrôle blanc qui mélange tout |
 
-## ▶️ Utilisation
+- 📝 6 types d’exercices : QCM, vrai/faux, phrase à trous, réponse à écrire, remettre dans l’ordre, paires
+- 📖 Des fiches de cours détaillées que tu peux **annoter** (stylo, surligneur, gomme)
+- 🎵 Musique et sons générés par le navigateur, 🥚 6 easter eggs cachés
+- ⌨️ Jouable entièrement au clavier : flèches / ZQSD, Entrée, Échap
 
-- **En ligne** : ouvre la page GitHub Pages du dépôt (voir « Publier » ci-dessous).
-- **Hors ligne** : télécharge `index.html` et ouvre-le dans ton navigateur. Rien à installer, aucune connexion nécessaire.
+## Jouer
 
-> Conçu pour ordinateur (1280 px et plus). Sur téléphone, un message invite à passer sur PC.
+👉 **[itsnotjalan.github.io/fidbak-r111](https://itsnotjalan.github.io/fidbak-r111/)**
 
-## ✨ Ce qu’il y a dedans
+Ou télécharge `index.html` et ouvre-le : ça marche sans internet. Ta progression reste dans ton navigateur.
 
-- Leçons façon Duolingo : QCM, vrai/faux, phrases à compléter, réponses à écrire, remettre dans l’ordre, associer des paires
-- **Fidbak**, un kaiju moqueur qui devient un chibi kawaii quand tu enchaînes les bonnes réponses (et te met K.O. quand tu n’as plus de cœurs)
-- 6 mondes à explorer, avec des rappels de cours cachés dans le décor et 6 easter eggs
-- **Fiches de cours annotables** : stylo, surligneur, gomme — tes annotations sont enregistrées
-- Interface de dialogue inspirée des JRPG, musique d’ambiance et bruitages générés par le navigateur
-- Navigation complète au clavier : flèches / ZQSD / WASD, Entrée, Échap
+---
 
-Ta progression est enregistrée dans ton navigateur (localStorage).
-
-## 🌐 Publier avec GitHub Pages
-
-*Settings → Pages → Branch : `main` / dossier `/ (root)` → Save.*  
-Le site sera disponible à l’adresse `https://<ton-pseudo>.github.io/fidbak-r111/`.
-
-## ⚠️ Avertissement
-
-Projet personnel d’entraînement, non officiel. Le contenu résume les cours de Madame Salou pour aider à réviser : en cas de doute, **le cours de l’enseignante fait foi**.
+<div align="center">
+<sub>Projet perso d’entraînement, non officiel. En cas de doute, c’est le cours de Madame Salou qui fait foi.</sub>
+</div>
